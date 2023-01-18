@@ -1,5 +1,5 @@
 # Personal Digital Assistants
-This project was built using Reactjs
+This project was built using Reactjs and Bulma (a CSS framework)
 
 ## Content
 A simple webpage with a hero section and a re-useable card component section, 
